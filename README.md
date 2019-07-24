@@ -1,2 +1,2 @@
 # LeeCode
-LeeCode刷题
+Go 语言 LeeCode刷题

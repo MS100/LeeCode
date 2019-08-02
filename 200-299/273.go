@@ -1,3 +1,4 @@
+//千分位分割
 func numberToWords(num int) string {
     if num == 0 {
         return "Zero"

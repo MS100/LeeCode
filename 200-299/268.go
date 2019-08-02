@@ -1,4 +1,4 @@
-//求目标和再减去数组和
+//不缺失的状态下求和，然后减去实际数组和
 func missingNumber(nums []int) int {
     if len(nums) == 0 {
         return 0

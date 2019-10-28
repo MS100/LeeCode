@@ -10,3 +10,16 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+.svn
+.fis-tmp
+.DS_Store
+.cache
+._*
+*副本*
+.tmp
+.gulp
+.swp
+.tmp_sendtest
+.idea
+.vscode
+

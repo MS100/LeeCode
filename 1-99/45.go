@@ -1,3 +1,4 @@
+//https://leetcode-cn.com/problems/jump-game-ii/
 func jump2(nums []int) int {
     l := len(nums)-1
     if l == 0 {
